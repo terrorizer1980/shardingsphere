@@ -61,7 +61,7 @@
         <antlr4.version>4.7.2</antlr4.version>
         
         <groovy.version>2.4.19</groovy.version>
-        <snakeyaml.version>1.16</snakeyaml.version>
+        <snakeyaml.version>1.31</snakeyaml.version>
         
         <netty.version>4.1.45.Final</netty.version>
         <commons-codec.version>1.10</commons-codec.version>
@@ -623,7 +623,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -636,7 +636,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
