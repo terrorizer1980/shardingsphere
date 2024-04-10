@@ -30,7 +30,7 @@
     
     <properties>
         <opentracing.version>0.31.0</opentracing.version>
-        <jaeger-client.version>0.31.0</jaeger-client.version>
+        <jaeger-client.version>0.34.1</jaeger-client.version>
     </properties>
     
     <dependencies>
